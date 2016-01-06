@@ -14,3 +14,8 @@
   width: 40%;
   font-style: italic;
 }
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+}
