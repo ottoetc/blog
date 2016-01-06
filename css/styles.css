@@ -1,0 +1,16 @@
+.recent {
+  font-weight: bold;
+  width: 50%;
+  outline-style: dotted;
+  outline-color: lightblue;
+}
+.archived {
+  color: grey;
+  width: 50%;
+  outline-style: solid;
+  outline-color: lightblue;
+}
+.about {
+  width: 40%;
+  font-style: italic;
+}
